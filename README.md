@@ -8,7 +8,7 @@ Clone or download the repository to your local drive.
 
 ### Prerequisites
 
-What things you need to install:
+What you need to install:
 
 This project was created using Gulp automation tool, you can run the following command to the local repo directory to install all the dev dependencies 
 
@@ -16,7 +16,7 @@ This project was created using Gulp automation tool, you can run the following c
 npm install
 ```
 
-then write gulp in the terminal / command line to run the live server
+Write gulp in the terminal / command line to run the live server.
 
 ## Authors
 
